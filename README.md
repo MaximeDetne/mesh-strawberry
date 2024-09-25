@@ -20,7 +20,7 @@ For debug purposes on file uploads
 
 ## Mesh gateway
 
-`cd graphqlMesh``
+`cd graphqlMesh`
 
 `yarn`
 
