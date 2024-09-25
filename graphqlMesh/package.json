@@ -1,0 +1,13 @@
+{
+  "scripts": {},
+  "dependencies": {
+    "@graphql-hive/gateway": "^1.0.5",
+    "@graphql-mesh/cache-localforage": "^0.102.5",
+    "@graphql-mesh/compose-cli": "^1.0.2",
+    "@parcel/watcher": "^2.4.1",
+    "graphql": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}

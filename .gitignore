@@ -1,0 +1,4 @@
+strawberry_django_api/media/*
+db.sqlite3
+node_modules
+.DS_Store

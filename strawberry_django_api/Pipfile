@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+strawberry-graphql-django = "0.47.2"
+strawberry-graphql = "0.242.0"
+django = "5.1.1"
+graphql-core = "3.2.4"
+
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
